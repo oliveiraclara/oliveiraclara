@@ -2,6 +2,8 @@
 
 ## Oiii eu sou a Clara Martins Oliveira ☀️
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oliveiraclara&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
